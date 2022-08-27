@@ -27,7 +27,7 @@ body {
     font-size: 4em;
     font-weight: bolder;
     letter-spacing: 0.05em;
-    color: var(--orangish);
+    color: var(--redish);
 }
 
 .newGroceryForm {
@@ -65,7 +65,7 @@ body {
     justify-content: center;
     margin-top: 2em;
     border-radius: 0.5em;
-    background-color: var(--orangish);
+    background-color: var(--redish);
 }
 
 .groceryItem {
@@ -80,6 +80,6 @@ body {
 }
 
 .groceryItem:hover {
-    background-color: var(--orangish);
+    background-color: var(--redish);
     font-weight: bold;
 }
